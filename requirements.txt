@@ -1,0 +1,7 @@
+langchain
+langchain_core
+langgraph 
+langsmith 
+langchain_openai
+playwright > /dev/null
+playwright install
